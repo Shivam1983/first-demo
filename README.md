@@ -1,4 +1,4 @@
 # first-demo
 This is my first repo
 <br>
-Name: Shivam Zhar(JIA SHREE RAM)
+Name: Shivam Zhar(JAY SHREE RAM)
